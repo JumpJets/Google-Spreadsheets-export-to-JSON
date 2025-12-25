@@ -38,11 +38,14 @@ At this moment there is no configuration, but it is possible to add if it would 
 5. Rename project name (on top) and script file (`.gs`) to a meaningful name.
 6. Click Save button 💾
 7. Click Execute button ▶
+8. For the first time you would be asked for permissions to run unknown code, you would need to accept and check checkboxes to allow permission.
 
 If everything is ok you will see logs that script is successfully executed. You can close this window and go back to your Sheet.
 You should be able to see in menu new option `Export JSON`.
 
 <img width="827" height="102" alt="menu button" src="https://github.com/user-attachments/assets/5843eddb-17ad-4be7-acec-00d69016cac6" />
+
+Because there is limited permissions, saving it as a file would not be possible, but you will see a popup dialog where you would be able to easily select and copy with `Ctrl`+`C`. And then paste into an empty file locally.
 
 ## Bugs
 

@@ -3,8 +3,9 @@
 This code using [**Google Apps Script**](https://script.google.com/home)
 
 It allow you to convert tabular data into JSON. For example:
+
 | A | B |
-|===|===|
+|---|---|
 | 1 | x |
 | 2 | y |
 
@@ -40,6 +41,8 @@ At this moment there is no configuration, but it is possible to add if it would 
 
 If everything is ok you will see logs that script is successfully executed. You can close this window and go back to your Sheet.
 You should be able to see in menu new option `Export JSON`.
+
+<img width="827" height="102" alt="menu button" src="https://github.com/user-attachments/assets/5843eddb-17ad-4be7-acec-00d69016cac6" />
 
 ## Bugs
 
